@@ -1,0 +1,12 @@
+{
+	"name": "date-mutare",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": {
+		"name": "mfoonirlee",
+		"email": "mfoonirlee@gmail.com"
+	},
+	"main": "index.js",
+	"devDependencies": {},
+	"dependencies": {}
+}
