@@ -22,7 +22,7 @@ import DateParser from 'date-mutare';
 DateParser.parse
 /**
 * @description: format date obj to a date string 
-* @param: {Date|string|number} date object or string
+* @param: {Date object|string|number} date object or string
 * @param: {string} string of formating date
 * @return: {string} date string
 */
